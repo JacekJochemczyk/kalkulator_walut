@@ -1,0 +1,13 @@
+C:\Users\takni\OneDrive\Desktop\biblioteka\kalkulator_walut\bin\Debug\kalkulator_walut.exe.config
+C:\Users\takni\OneDrive\Desktop\biblioteka\kalkulator_walut\bin\Debug\kalkulator_walut.exe
+C:\Users\takni\OneDrive\Desktop\biblioteka\kalkulator_walut\bin\Debug\kalkulator_walut.pdb
+C:\Users\takni\OneDrive\Desktop\biblioteka\kalkulator_walut\obj\Debug\kalkulator_walut.csproj.AssemblyReference.cache
+C:\Users\takni\OneDrive\Desktop\biblioteka\kalkulator_walut\obj\Debug\kalkulator_walut.Form1.resources
+C:\Users\takni\OneDrive\Desktop\biblioteka\kalkulator_walut\obj\Debug\kalkulator_walut.Properties.Resources.resources
+C:\Users\takni\OneDrive\Desktop\biblioteka\kalkulator_walut\obj\Debug\kalkulator_walut.csproj.GenerateResource.cache
+C:\Users\takni\OneDrive\Desktop\biblioteka\kalkulator_walut\obj\Debug\kalkulator_walut.csproj.CoreCompileInputs.cache
+C:\Users\takni\OneDrive\Desktop\biblioteka\kalkulator_walut\obj\Debug\kalkulator_walut.exe
+C:\Users\takni\OneDrive\Desktop\biblioteka\kalkulator_walut\obj\Debug\kalkulator_walut.pdb
+C:\Users\takni\OneDrive\Desktop\biblioteka\kalkulator_walut\bin\Debug\Newtonsoft.Json.dll
+C:\Users\takni\OneDrive\Desktop\biblioteka\kalkulator_walut\bin\Debug\Newtonsoft.Json.xml
+C:\Users\takni\OneDrive\Desktop\biblioteka\kalkulator_walut\obj\Debug\kalkulat.13F99EA0.Up2Date
